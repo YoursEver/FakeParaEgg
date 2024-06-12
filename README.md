@@ -1,2 +1,4 @@
 # FakeParaEgg
-A self-made microscopic image dataset for copy-move forgery detection.
+A microscopic image dataset for copy-move forgery detection.
+
+Other details will be added soon.
