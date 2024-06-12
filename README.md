@@ -15,12 +15,7 @@ segmentation network and a dataset},<br>
   year={202X},<br>
 }<br>
 
-@inproceedings{shao2024detecting,<br>
-  title={Detecting biomedical copy-move forgery by attention-based multiscale deep descriptors},<br>
-  author={Shao, H.-C. and Tseng, T.-Y. and Liao, Y.-R. and Chen, C.-C. and Hung, C.-Y. and Liang, M.-H.},<br>
-  booktitle={Proc. IEEE Int. Conf. Image Process.},<br>
-  year={2024},<br>
-}<br>
+
 
 The source data was provided by:<br>
 @inproceedings{anantrasirichai2022icip,<br>
