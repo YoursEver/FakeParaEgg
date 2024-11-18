@@ -1,9 +1,9 @@
 # CMSeg-Net
 The source code of our copy-move detector will be released soon. 
 
-Contact:
-shao.haochiang@gmail.com  (H.-C. Shao)
-box321eu2324@gmail.com    (F.-Y. Lin)
+Contact: <br>
+shao.haochiang (at) gmail.com  (H.-C. Shao) <br>
+box321eu2324 (at) gmail.com    (F.-Y. Lin)
 
 
 # FakeParaEgg
