@@ -1,3 +1,7 @@
+# CMSeg-Net
+The source code of our copy-move detector will be released soon. 
+
+
 # FakeParaEgg
 We created this microscopic image dataset to support the development of future copy-move forgery detection algorithms. 
 
