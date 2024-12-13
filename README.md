@@ -16,7 +16,7 @@ Finally, note that the FakeParaEgg dataset was made from the public source data 
 
 
 ======== <br>
-For FakeParaEgg users, please cite the following papers: <br>
+**For FakeParaEgg users, please cite the following papers:** <br>
 @article{shao2024copymove,<br>
   title={Copy-move detection in optical microscopy: a
 segmentation network and a dataset},<br>
@@ -42,7 +42,7 @@ The source data of FakeParaEgg was provided by:<br>
 ======== <br>
 # CMF (with copy-move segmentation mask)
 The original CMF dataset was designed for testing keypoint-based copy-move detection algorithms and, therefore, does not provide segmentation ground truths (i.e., copy-move masks) for its attacked forgery samples. We carefully semi-manually segmented the copy-move samples in the CMF dataset. If you downloaded this modified CMF dataset, please cite our paper please.
-The modified CMF dataset can be downloaded at: 
+**The modified CMF dataset can be downloaded at:**
 https://www.dropbox.com/scl/fo/0klw6e7zuzgz9l2y8tpif/AOdDzAcsIXPftg8AhPrf2_w?rlkey=jn8zzmdff7cwa0xjlzx9xoob8&st=nz3cw1qi&dl=0 
 
 @article{shao2024copymove,<br>
