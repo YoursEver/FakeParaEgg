@@ -9,7 +9,10 @@ box321eu2324 (at) gmail.com    (F.-Y. Lin)
 # FakeParaEgg
 We created this microscopic image dataset to support the development of future copy-move forgery detection algorithms. 
 
-This dataset was made from the public source data provided by the ICIP 2022 Challenge: Parasitic Egg Detection and Classification in Microscopic Images (https://icip2022challenge.piclab.ai/).
+**FakeParaEgg** simulates real-world copy-move processes, where forgeries often involve foreground objects with their backgrounds removed (i.e., made transparent). These manipulations, common in academic fraud, are difficult to detect using traditional methods due to the nonidentical background context. **FakeParaEgg** contains 1,400 forged images for training and 100 for testing. To create it, we cropped parasitic eggs using ground-truth bounding boxes, removed the backgrounds using **Rembg**, and randomly pasted the background-free patches onto the original image, producing the final synthetic copy-move forgeries, as illustrated in the figure below.
+![alt text](https://github.com/YoursEver/FakeParaEgg/blob/main/fakeparaegg_preparation.png?raw=true)
+
+Finally, note that the FakeParaEgg dataset was made from the public source data provided by the ICIP 2022 Challenge: Parasitic Egg Detection and Classification in Microscopic Images (https://icip2022challenge.piclab.ai/).
 
 
 ======== <br>
