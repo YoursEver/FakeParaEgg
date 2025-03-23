@@ -21,10 +21,10 @@ Finally, note that the FakeParaEgg dataset was made from the public source data 
   title={Copy-move detection in optical microscopy: a
 segmentation network and a dataset},<br>
   author={Shao, H.-C. and Liao, Y.-R. and Tseng, T.-Y. and Chuo, Y.-L. and Lin, F.-Y.},<br>
-  journal={(submitted manuscript)},<br>
-  volume={xx},<br>
-  pages={pp--pp},<br>
-  year={202X},<br>
+  journal={IEEE Signal Processing Letters},<br>
+  volume={32},<br>
+  pages={1106--1110},<br>
+  year={2025},<br>
 }<br>
 
 
