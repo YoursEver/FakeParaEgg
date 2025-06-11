@@ -4,6 +4,7 @@ The source code for our copy-move detector will be released soon.
 
 In the meantime, you can access an **unfinalized** version of the code, which includes testing scripts and some unpolished comments, via the following Dropbox link:  
 🔗 [FongYi_code.zip (Dropbox)](https://www.dropbox.com/scl/fi/d70p1q7sh2qd0o983cbs5/FongYi_code.zip?rlkey=i3jdpdbhx40d69lwy3m06ov05&st=jn850ccp&dl=0)
+🔗 [prediction_folder_FongYi (Dropbox, model file)](https://www.dropbox.com/scl/fi/aym6cdp84mqa6iehzf80h/prediction_folder_FongYi.zip?rlkey=74vzkqo2up7gg2wakemkropls&st=9gq730vy&dl=0)
 
 Please stay tuned for the finalized version and the updated, renamed experimental dataset.
 
