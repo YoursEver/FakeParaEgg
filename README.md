@@ -1,6 +1,7 @@
 # CMSeg-Net
+**"Copy-move detection in optical microscopy: a segmentation network and a dataset", IEEE Signal Processing Letters, 2025.**
 
-The source code for our copy-move detector will be released soon.
+The source code for our copy-move detector, named **CMSeg-Net**, will be released soon.
 
 In the meantime, you can access an **unfinalized** version of the code, which includes testing scripts and some unpolished comments, via the following Dropbox link:  
 🔗 [FongYi_code.zip (Dropbox)](https://www.dropbox.com/scl/fi/d70p1q7sh2qd0o983cbs5/FongYi_code.zip?rlkey=i3jdpdbhx40d69lwy3m06ov05&st=jn850ccp&dl=0)  <br>
@@ -12,6 +13,17 @@ Please stay tuned for the finalized version and the updated, renamed experimenta
 Contact: <br>
 shao.haochiang (at) gmail.com  (H.-C. Shao) <br>
 box321eu2324 (at) gmail.com    (F.-Y. Lin)
+
+**For CMSeg-Net users, please cite the following papers:** <br>
+@article{shao2024copymove,<br>
+  title={Copy-move detection in optical microscopy: a
+segmentation network and a dataset},<br>
+  author={Shao, H.-C. and Liao, Y.-R. and Tseng, T.-Y. and Chuo, Y.-L. and Lin, F.-Y.},<br>
+  journal={IEEE Signal Processing Letters},<br>
+  volume={32},<br>
+  pages={1106--1110},<br>
+  year={2025},<br>
+}<br>
 
 
 # FakeParaEgg
